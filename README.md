@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/interactive-web-components?style=for-the-badge&logo=github&color=yellow)](https://i.ibb.co/9H7LdrtR/image.png)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/interactive-web-components?style=for-the-badge&logo=github&color=yellow)]()
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/interactive-web-components?style=for-the-badge&logo=github&color=blue)](https://github.com/yourusername/interactive-web-components/network)
 [![GitHub issues](https://img.shields.io/github/issues/yourusername/interactive-web-components?style=for-the-badge&logo=github&color=red)](https://github.com/yourusername/interactive-web-components/issues)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](LICENSE)
@@ -50,16 +50,16 @@ This repository contains four breathtaking interactive web components that showc
 <div align="center">
 
 ### 🎲 3D Rotating Cube
-![3D Cube Demo](https://via.placeholder.com/600x300/6366f1/ffffff?text=3D+Rotating+Cube)
+![3D Cube Demo](https://i.ibb.co/9H7LdrtR/image.png)
 
 ### ⏰ Digital Clock
-![Clock Demo](https://via.placeholder.com/600x300/0ea5e9/ffffff?text=Glowing+Digital+Clock)
+![Clock Demo](https://i.ibb.co/Q7x0qWyg/image.png)
 
 ### ⚽ Bouncing Ball
-![Ball Demo](https://via.placeholder.com/600x300/10b981/ffffff?text=Bouncing+Ball+Physics)
+![Ball Demo](https://i.ibb.co/tPbdjNYV/image.png)
 
 ### 🤖 AI Profile Card
-![AI Card Demo](https://via.placeholder.com/600x300/8b5cf6/ffffff?text=AI+Model+Profile+Card)
+![AI Card Demo](https://i.ibb.co/VWvfjqkv/image.png)
 
 </div>
 
@@ -258,11 +258,7 @@ Found a bug? [Open an issue](https://github.com/yourusername/interactive-web-com
 - Expected vs actual behavior
 - Screenshots if applicable
 
-### ✨ **Feature Requests**
-Have an idea? [Create a feature request](https://github.com/yourusername/interactive-web-components/issues) with:
-- Detailed description of the feature
-- Use case examples
-- Mockups or sketches if possible
+
 
 ### 💻 **Code Contributions**
 
@@ -312,17 +308,6 @@ Have an idea? [Create a feature request](https://github.com/yourusername/interac
 
 ---
 
-## 📞 **Support**
-
-<div align="center">
-
-**Need help?** We're here for you!
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
 
 ---
 
@@ -336,7 +321,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **⭐ If you found this project helpful, please give it a star! ⭐**
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by Zikomo Software(https://github.com/zikomosoftware)**
 
 [![Back to Top](https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white)](#-interactive-web-components-collection)
 
